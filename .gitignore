@@ -1,0 +1,82 @@
+# ===================================================
+# PICAS - Policy-Informed Context-Aware Allocator
+# .gitignore
+# ===================================================
+
+# -----------------------
+# Build directories
+# -----------------------
+build/
+build_asan/
+build_san/
+build_debug/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+Testing/
+DartConfiguration.tcl
+
+# -----------------------
+# Compiler artifacts
+# -----------------------
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# -----------------------
+# Sanitizer / profiler
+# -----------------------
+*.profraw
+*.profdata
+asan.log
+ubsan.log
+lsan.log
+
+# -----------------------
+# Trace / benchmark output
+# -----------------------
+*.trace
+*.csv
+*.json
+*.log
+
+# -----------------------
+# macOS
+# -----------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# -----------------------
+# IDEs / Editors
+# -----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# -----------------------
+# Python / scripts
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# -----------------------
+# Misc
+# -----------------------
+tmp/
+.cache/
