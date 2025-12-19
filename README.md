@@ -1789,7 +1789,7 @@ This ensures the allocator can fill the empty holes in earlier memory layers, im
 Given preferred memory layer $\ell_0$ and probe budget $P$ such that:
 
 $$
-m_t^\star = \min_{\ell \in \mathcal{N}_P(\ell_0)} \left\{ \ell \;:\; u_\ell(t) + B(s_t) \le c_\ell \right\}
+m_t^\star = \min_{\ell \in \mathcal{N}_P(\ell_0)} (\ell \;:\; u_\ell(t) + B(s_t) \le c_\ell)
 $$
 
 or **no solution** if none found. This produces a predictable upper bound on search time.
