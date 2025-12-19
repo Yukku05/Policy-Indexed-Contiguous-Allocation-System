@@ -1646,7 +1646,7 @@ $$
 Let the bin index mapping be:
 
 $$
-\beta(x) = \min\left\{K-1,\; \left\lfloor \log_2(\max\{32,x\}) \right\rfloor \right\}
+\beta(x) = \min\(K-1,\lfloor\log_2(\max\{32,x\})\rfloor\)
 $$
 
 Where $K=\texttt{kBins}$. For a request $s$, the allocator searches bins $\beta(B(s)) \to K-1$ for a free block of size $\ge B(s)$:
@@ -1789,8 +1789,7 @@ This ensures the allocator can fill the empty holes in earlier memory layers, im
 Given preferred memory layer $\ell_0$ and probe budget $P$ such that:
 
 $$
-m_t^\star = \min_{\ell \in \mathcal{N}_P(\ell_0)}
-\left\{ \ell:\; u_\ell(t)+B(s_t)\le c_\ell \right\},
+m_t^\star = \min_{\ell \in \mathcal{N}_P(\ell_0)} \left\{ \ell \;:\; u_\ell(t) + B(s_t) \le c_\ell \right\}
 $$
 
 or **no solution** if none found. This produces a predictable upper bound on search time.
@@ -1908,7 +1907,7 @@ Then:
 - **Bin Search**:
 
 $$
-O(\left(\sum_{k=\beta(B(s))}^{K-1} n_k\right)
+O\left(\sum_{k=\beta(B(s))}^{K-1} n_k\right)
 $$
 
 - **Bump Allocation**:
@@ -1926,7 +1925,7 @@ $$
 Consequently, the overall allocation time is computed as such:
 
 $$ 
-T_{\mathrm{alloc}}(s) = O(\left(\min\{P,L\} + \sum_{k=\beta(B(s))}^{K-1} n_k\right),
+T_{\mathrm{alloc}}(s) = O\left(\min\{P,L\} + \sum_{k=\beta(B(s))}^{K-1} n_k\right),
 $$
 
 With the general case approaching closely to $O(1)$ when **bins are shallow and bump is available**.
