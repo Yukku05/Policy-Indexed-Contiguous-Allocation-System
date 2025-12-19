@@ -1928,10 +1928,8 @@ $$
 
 Consequently, the overall allocation time is computed as such:
 
-$$
-T_{\mathrm{alloc}}(s)
-=
-O\!\left(\min\{P,L\} + \sum_{k=\beta(B(s))}^{K-1} n_k\right),
+$$ 
+T_{\mathrm{alloc}}(s) = O\!\left(\min\{P,L\} + \sum_{k=\beta(B(s))}^{K-1} n_k\right),
 $$
 
 With the general case approaching closely to $O(1)$ when **bins are shallow and bump is available**.
